@@ -1,4 +1,4 @@
-# OpenCV-Yuz-ve-Goz-Tanima-Islemleri
+# OpenCV ile Yüz ve Göz Tanıma İşlemleri
 Python kullanarak OpenCV ile yüz ve göz tanıma işlemlerini yapma
 
 
